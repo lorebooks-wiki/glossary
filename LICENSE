@@ -1,0 +1,35 @@
+NOTE FOR ANY LEGAL TEAMS: This repository has adopted CC BY-SA 4.0 International/Unported for the documentation
+materials (aka Markdown files in the docs directory, minus any embedded content which may use more stricter licensing)
+and the premissive MIT license. This placeholder has been added to ensure both GitHub and GitLab will know about this
+situtation. Please read the included legal code we checked in to version control for your reference.
+
+This open-source project has implemented two seperate licenses to sepreate concerns regarding using one license
+for everything. To determine under which license you may use a file from this repository, please resort to the README
+file of an specific directory in question.
+
+1. Markdown files in the docs directory are licensed under Creative Commons Attribution-ShareAlike 4.0 Unported or
+   later, check the License.cc-by-sa.txt file we provided in this repository root. In case these files aren't included
+   in an fork/mirror, please visit https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+2. The rest of the repository will use the MIT license, see the License.mit.txt file for full legal code.
+
+When in doubt, please contact the project maintainers listed in the MAINTAINERS.md file, either directly or thrrough the
+public issue tracker at https://gitlab.cm/Community-Lores/glossary/issues and they'll gladly help you. Please be reminded
+that we're not legal experts, so please take it with an grain of salt.
+
+===== DO NOT DELETE THE CONTENTS BELOW THIS LINE - FOR COPYRIGHT COMPLIANCE ONLY =====
+Glossary for Community Lores and related OSS projects (c) 2021-present by The Pins Team and its contributors
+
+The plaintext Markdown files in the docs directory is licensed under a
+Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this work in form of an file c
+If not, see http://creativecommons.org/licenses/by-sa/4.0/.
+
+Rest of the repo contents, including GitLab issue and merge request templates and the code that powers
+glossary.lores.community (currently glossary.community-lores.tk), are licensed under the MIT license, see
+License.mit.txt for full legal code.
+
+If you ever maintain your own fork (and possibly don't make your changes upstream), please
+see docs/maintainer-handbook/legalese/copyright-license.md for details on how to update
+copyright headers, among other things
+===== DO NOT DELETE THE CONTENTS ABOVE THIS LINE - FOR COPYRIGHT COMPLIANCE ONLY =====
