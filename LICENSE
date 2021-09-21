@@ -8,9 +8,9 @@ for everything. To determine under which license you may use a file from this re
 file of an specific directory in question.
 
 1. Markdown files in the docs directory are licensed under Creative Commons Attribution-ShareAlike 4.0 Unported or
-   later, check the License.cc-by-sa.txt file we provided in this repository root. In case these files aren't included
+   later, check the LICENSE.cc-by-sa.txt file we provided in this repository root. In case these files aren't included
    in an fork/mirror, please visit https://creativecommons.org/licenses/by-sa/4.0/legalcode.
-2. The rest of the repository will use the MIT license, see the License.mit.txt file for full legal code.
+2. The rest of the repository will use the MIT license, see the LICENSE.mit.txt file for full legal code.
 
 When in doubt, please contact the project maintainers listed in the MAINTAINERS.md file, either directly or thrrough the
 public issue tracker at https://gitlab.cm/Community-Lores/glossary/issues and they'll gladly help you. Please be reminded
@@ -27,9 +27,10 @@ If not, see http://creativecommons.org/licenses/by-sa/4.0/.
 
 Rest of the repo contents, including GitLab issue and merge request templates and the code that powers
 glossary.lores.community (currently glossary.community-lores.tk), are licensed under the MIT license, see
-License.mit.txt for full legal code.
+LICENSE.mit.txt for full legal code.
 
 If you ever maintain your own fork (and possibly don't make your changes upstream), please
 see docs/maintainer-handbook/legalese/copyright-license.md for details on how to update
-copyright headers, among other things
+copyright headers, among other legal things you should do for compliance reasons with
+both licenses.
 ===== DO NOT DELETE THE CONTENTS ABOVE THIS LINE - FOR COPYRIGHT COMPLIANCE ONLY =====
