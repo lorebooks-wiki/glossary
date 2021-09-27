@@ -13,24 +13,23 @@ file of an specific directory in question.
 2. The rest of the repository will use the MIT license, see the LICENSE.mit.txt file for full legal code.
 
 When in doubt, please contact the project maintainers listed in the MAINTAINERS.md file, either directly or thrrough the
-public issue tracker at https://gitlab.cm/Community-Lores/glossary/issues and they'll gladly help you. Please be reminded
+public issue tracker at https://gitlab.com/Community-Lores/glossary/issues and they'll gladly help you. Please be reminded
 that we're not legal experts, so please take it with an grain of salt.
 
 ===== DO NOT DELETE THE CONTENTS BELOW THIS LINE - FOR COPYRIGHT COMPLIANCE ONLY =====
-Glossary for Community Lores and related OSS projects (c) 2021-present by The Pins Team and its contributors
+Community Lores Glossary (c) 2021-present by The Pins Team and its contributors
 
 The plaintext Markdown files in the docs directory is licensed under a
 Creative Commons Attribution-ShareAlike 4.0 International License.
 
-You should have received a copy of the license along with this work in form of an file c
-If not, see http://creativecommons.org/licenses/by-sa/4.0/.
+You should have received a copy of the license along with this work in form of an file mentioned
+above. If not, see http://creativecommons.org/licenses/by-sa/4.0/.
 
 Rest of the repo contents, including GitLab issue and merge request templates and the code that powers
 glossary.lores.community (currently glossary.community-lores.tk), are licensed under the MIT license, see
 LICENSE.mit.txt for full legal code.
 
 If you ever maintain your own fork (and possibly don't make your changes upstream), please
-see docs/maintainer-handbook/legalese/copyright-license.md for details on how to update
-copyright headers, among other legal things you should do for compliance reasons with
-both licenses.
+see docs/legalese/copyright-license.md for details on how to update copyright headers, among other
+legal things you should do for compliance reasons with both licenses.
 ===== DO NOT DELETE THE CONTENTS ABOVE THIS LINE - FOR COPYRIGHT COMPLIANCE ONLY =====
