@@ -1,0 +1,10 @@
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+  script:
+    - echo YOLO!
+  artifacts:
+    paths:
+      - public
