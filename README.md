@@ -1,4 +1,4 @@
-# Glossary for Community Lores and other apps
+# Community Lores Glossary
 
 > **:warning: This README and other stuff in this repository is still work-in-progress, proceed at your own risk.**
 
