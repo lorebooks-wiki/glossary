@@ -1,7 +1,14 @@
 {
-    "recommendations": [
-        "eamodio.gitlens",
-        "timonwong.shellcheck",
-        "redhat.vscode-yaml"
-    ]
+  "recommendations": [
+    "eamodio.gitlens",
+    "timonwong.shellcheck",
+    "redhat.vscode-yaml",
+    "streetsidesoftware.code-spell-checker",
+    "davidlday.languagetool-linter",
+    "vscode-icons-team.vscode-icons",
+    "vivaxy.vscode-conventional-commits",
+    "miguelsolorio.fluent-icons",
+    "arcanis.vscode-zipfs",
+    "esbenp.prettier-vscode"
+  ]
 }

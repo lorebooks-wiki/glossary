@@ -1,0 +1,23 @@
+---
+# Force to use the latest builds from workspace-full
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: |
+      nvm install lts/**
+      nvm use lts/*
+      nvm alias default lts/*
+      nvm install-latest-npm
+      npm i -g typescript danger yarn
+
+# Essientials for docs writing and stuff
+vscode:
+  extensions:
+    - streetsidesoftware.code-spell-checker
+    - davidlday.languagetool-linter
+    - eamodio.gitlens
+    - vscode-icons-team.vscode-icons
+    - davidanson.vscode-markdownlint
+    - vivaxy.vscode-conventional-commits
+    - miguelsolorio.fluent-icons

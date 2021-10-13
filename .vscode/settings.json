@@ -1,13 +1,88 @@
 {
-    "git.alwaysSignOff": true,
-    "[yaml]": {
-        "editor.insertSpaces": true,
-        "editor.tabSize": 2,
-        "editor.autoIndent": "advanced",
-        "gitlens.codeLens.scopes": [
-            "document"
-        ]
-    },
-    "yaml.completion": true,
-    "yaml.schemaStore.enable": true
+  "git.alwaysSignOff": true,
+  "[yaml]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "gitlens.codeLens.scopes": [
+      "document"
+    ]
+  },
+  "yaml.completion": true,
+  "yaml.schemaStore.enable": true,
+  "cSpell.usePnP": true,
+  "cSpell.words": [
+    // ../docs/concepts/spelling-guide/gildedguy-name-spelling-handbook.md
+    "Gildedguy",
+    // reference to Gildedguy's old domain and probably shorter form of his full real name
+    // ref: https://gildedguy.com/website-reborn/
+    "mikedmoy",
+    // --signoff flag in git commit command
+    "signoff",
+    // Hyun's Dojo Community stuff
+    "HyunRolled",
+    "Hyun's Dojo", // HyunRolls are welcome, please don't rickroll us Hyun
+    // other stuff
+    "Vsauce" // Hey Vsauce, Michael here.
+  ],
+  "cSpell.allowedSchemas": [
+    "file",
+    "gist",
+    "sftp",
+    "untitled",
+    "vscode-notebook-cell"
+  ],
+  "conventionalCommits.scopes": [
+    "gitpod",
+    "assets",
+    "vscode",
+    "codespaces",
+    "yarnpkg",
+    "gitlab-cicd",
+    "markdownlint",
+    "global",
+    "contributing-docs",
+    "legalese",
+    "spelling-police-docs",
+    "lexicons/disambiguations",
+    "lexicons/usernames",
+    "redirects",
+    "maintainer-handbook",
+    "templates"
+  ],
+  "cSpell.ignorePaths": [
+    "package-lock.json",
+    "node_modules",
+    "vscode-extension",
+    ".git/objects",
+    ".vscode",
+    ".devcontainer",
+    ".vscode-insiders",
+    "yarn.lock",
+    ",pnp.cjs",
+    ".yarn",
+    ".yarnrc.yml",
+    "docs/concepts/spelling-guide",
+    ".gitpod.yml"
+  ],
+  "languageToolLinter.external.url": "https://you-should-not-spell-it-wrong-again.up.railway.app",
+  "languageToolLinter.enabled": false, // only enable once the setup is done :)
+  // make sure they're synced with cSpell.words config
+  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+    "Gildedguy",
+    "mikedmoy",
+    "Vsauce",
+    "Hyun's Dojo",
+    "HyunRolled",
+    "signoff"
+  ],
+  "languageToolLinter.languageTool.language": "en-US",
+  "languageToolLinter.languageTool.motherTongue": "en-US",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.productIconTheme": "fluent-icons",
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.js"
 }

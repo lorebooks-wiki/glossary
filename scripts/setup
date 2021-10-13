@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [[ -d "$NVM_DIR" ]]; then
+    nvm install lts/**
+    nvm use lts/*
+    nvm alias default lts/*
+    nvm install-latest-npm
+fi
+
+npm i -g typescript danger yarn
+
+yarn install
